@@ -1,5 +1,5 @@
 use Data::Dumper;
-$a = "O grr; omgomoyr;u tr;scrf ejrm o s, eoyj i";
+$a = $ARGV[0];
 $ans = "";
 $lookup = {
 	"w" => "q",
